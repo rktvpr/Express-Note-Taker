@@ -2,7 +2,7 @@
 ![Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Description
-An application made with Express.JS to be able to write save and delete notes and have them be saved in a database.
+An application made with Express.JS to be able to write save and delete notes and have them be saved in a database. This application showed me how to use express, using a simple database i was able to store any notes desired to be saved within the database, having them stored, called and rendered to the html page. 
 
 # Table of Contents 
 * [Installation](#installation)
@@ -10,29 +10,12 @@ An application made with Express.JS to be able to write save and delete notes an
 * [Credits](#Credits)
 * [Features](#Features)
 
-## Acceptance Criteria
-
-```
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-```
-
 # Installation
 These are the steps to install this application: Requires Express, Node and Heroku.
 
 # Usage
 This is how to use this application: To use this application click take notes to go to the notes page. Then add your note title and text below and press the save icon in the top left corner. If you would like to add a new note, click on the plus sign in the upper right hand corner and repeat this process. To delete notes, press the red delete icon next to your notes title on the left hand side of the screen.
+![alt-text](/assets/Note-Taker.png)
 
 # Credits
 Credit to: Rick Welte, UPenn Instructors and tutors
